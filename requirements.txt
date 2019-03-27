@@ -1,0 +1,15 @@
+certifi==2019.3.9
+chardet==3.0.4
+ecdsa==0.13
+-e git+https://github.com/fetchai/ledger-api-py@30164f63c34f96233361bbed3a60b1dee8d45f0f#egg=fetchai_ledger_api
+idna==2.8
+libusb1==1.7
+protobuf==3.7.0
+psycopg2==2.7.7
+pytz==2018.9
+pywws==18.10.1
+requests==2.21.0
+six==1.12.0
+tzlocal==1.5.1
+urllib3==1.24.1
+git+https://github.com/fetchai/oef-sdk-python.git
